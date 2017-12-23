@@ -2,7 +2,7 @@
 Machine Learning Engineer Nanodegree - Udacity
 # About
 - [Udacity Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009) projects
-- [Heath Powers](https://github.com/hp4721), completed with certificate on 
+- [Heath Powers](https://github.com/hp4721)
 
 ## Contents
 Section | Project | Topics | Status
